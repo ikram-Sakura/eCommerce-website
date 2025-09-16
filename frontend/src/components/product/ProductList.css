@@ -1,0 +1,16 @@
+.no-products {
+  text-align: center;
+  padding: 3rem;
+  background: #f8fafc;
+  border-radius: 12px;
+  margin: 2rem 0;
+}
+
+.no-products h3 {
+  color: #64748b;
+  margin-bottom: 1rem;
+}
+
+.no-products p {
+  color: #94a3b8;
+}
